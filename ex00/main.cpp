@@ -1,5 +1,5 @@
 #include "ScalarConverter.hpp"
-dsfdsf
+
 int main(int ac, char* av[])
 {
     if (ac != 2)
